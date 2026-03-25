@@ -1,0 +1,3 @@
+[submodule "demochorechildapi"]
+	path = demochorechildapi
+	url = https://github.com/sarindufit/demochorechildapi.git
