@@ -1,0 +1,10 @@
+---
+key: "ParentAPI-1.0.0"
+name : "ParentAPI"
+displayName : "ParentAPI"
+description: "ParentAPI"
+version: "1.0.0"
+serviceUrl: "https://{MI_HOST}:{MI_PORT}/parentapi"
+definitionType: "OAS3"
+securityType: "BASIC"
+mutualSSLEnabled: false
